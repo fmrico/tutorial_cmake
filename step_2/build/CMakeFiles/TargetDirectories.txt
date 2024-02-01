@@ -1,4 +1,0 @@
-/home/fmrico/ros/ros2/ikerlan_ws/src/ikerlan/tutorial_cmake/step_2/build/CMakeFiles/functions_cmake_tutorial_2.dir
-/home/fmrico/ros/ros2/ikerlan_ws/src/ikerlan/tutorial_cmake/step_2/build/CMakeFiles/program.dir
-/home/fmrico/ros/ros2/ikerlan_ws/src/ikerlan/tutorial_cmake/step_2/build/CMakeFiles/edit_cache.dir
-/home/fmrico/ros/ros2/ikerlan_ws/src/ikerlan/tutorial_cmake/step_2/build/CMakeFiles/rebuild_cache.dir

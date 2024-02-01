@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/program.dir/program.cpp.o -o program 
